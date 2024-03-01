@@ -128,7 +128,14 @@ a {
     }
 
     .bigdiv >div {
-        background-color: orange;
+        background-color:rgb(86, 128, 227);
+        border: 2px solid
     }
 
+
+    h3 {
+        font-size: 100%;
+        color: black;
+        margin: 50%
+    }
 
