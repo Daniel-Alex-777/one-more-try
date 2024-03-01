@@ -139,3 +139,13 @@ a {
         margin: 50%
     }
 
+    .phone { 
+        
+      
+      
+      height:1920px;
+      margin-bottom: 300px;
+      background-repeat:no-repeat;
+      border: 2px solid purple;
+    }
+
